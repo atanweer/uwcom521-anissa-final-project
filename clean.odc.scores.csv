@@ -1,0 +1,123 @@
+"odc_rank","odc_city_name","odc_score","area_title"
+24,"Albuquerque, NM",995,"Albuquerque, NM MSA"
+10,"Anchorage, AK",1430,"Anchorage, AK MSA"
+33,"Ann Arbor, MI",770,"Ann Arbor, MI MSA"
+53,"Arlington, VA",520,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+20,"Asheville, NC",1120,"Asheville, NC MSA"
+52,"Athens, GA",545,"Athens-Clarke County, GA MSA"
+21,"Atlanta, GA",1105,"Atlanta-Sandy Springs-Roswell, GA MSA"
+3,"Austin, TX",1700,"Austin-Round Rock, TX MSA"
+53,"Baltimore, MD",520,"Baltimore-Columbia-Towson, MD MSA"
+94,"Bangor, ME",0,"Bangor, ME MSA"
+11,"Baton Rouge, LA",1425,"Baton Rouge, LA MSA"
+68,"Bell, CA",365,NA
+58,"Birmingham, AL",495,"Birmingham-Hoover, AL MSA"
+73,"Blacksburg, VA",265,"Blacksburg-Christiansburg-Radford, VA MSA"
+44,"Boise, ID",645,"Boise City, ID MSA"
+13,"Boston, MA",1370,"Boston-Cambridge-Newton, MA-NH MSA"
+53,"Boulder, CO",520,"Boulder, CO MSA"
+94,"Bridgeport, CT",0,"Bridgeport-Stamford-Norwalk, CT MSA"
+85,"Burbank, CA",100,NA
+87,"Burlington, VT",80,"Burlington-South Burlington, VT MSA"
+66,"Calabasas, CA",370,NA
+92,"Cary, NC",45,NA
+94,"Cedar Falls, IA",0,"Waterloo-Cedar Falls, IA MSA"
+32,"Charlotte, NC",790,"Charlotte-Concord-Gastonia, NC-SC MSA"
+15,"Chattanooga, TN",1350,"Chattanooga, TN-GA MSA"
+70,"Chesapeake, VA",305,NA
+2,"Chicago, IL",1720,"Chicago-Naperville-Elgin, IL-IN-WI MSA"
+47,"Cincinnati, OH",600,"Cincinnati, OH-KY-IN MSA"
+51,"Cleveland, OH",550,"Cleveland-Elyria, OH MSA"
+82,"Columbus, OH",140,"Columbus, OH MSA"
+94,"Compton, CA",0,NA
+40,"Culver City, CA",700,NA
+37,"Dallas, TX",720,"Dallas-Fort Worth-Arlington, TX MSA"
+88,"Dayton, OH",70,"Dayton, OH MSA"
+94,"Deer Lodge, MT",0,NA
+59,"Denton, TX",485,NA
+30,"Denver, CO",815,"Denver-Aurora-Lakewood, CO MSA"
+56,"Detroit, MI",515,"Detroit-Warren-Dearborn, MI MSA"
+76,"Durham, NC",240,"Durham-Chapel Hill, NC MSA"
+66,"El Segundo, CA",370,NA
+94,"Evanston, IL",0,NA
+71,"Falls Church, VA",290,NA
+48,"Fort Lauderdale, FL",595,"Miami-Fort Lauderdale-West Palm Beach, FL MSA"
+94,"Fredericksburg, VA",0,NA
+78,"Gainesville, FL",200,"Gainesville, FL MSA"
+42,"Glendale, CA",680,NA
+81,"Grand Rapids, MI",165,"Grand Rapids-Wyoming, MI MSA"
+94,"Greenville, NC",0,"Greenville, NC MSA"
+84,"Hampton, VA",130,NA
+22,"Hartford, CT",1100,"Hartford-West Hartford-East Hartford, CT MSA"
+93,"Honolulu, HI",35,"Urban Honolulu, HI MSA"
+77,"Houston, TX",235,"Houston-The Woodlands-Sugar Land, TX MSA"
+94,"Huntsville, AL",0,"Huntsville, AL MSA"
+79,"Jacksonville, FL",195,"Jacksonville, FL MSA"
+61,"Jersey City, NJ",435,"New York-Newark-Jersey City, NY-NJ-PA MSA"
+18,"Kansas City, MO",1190,"Kansas City, MO-KS MSA"
+94,"Key Biscayne, FL",0,NA
+1,"Law Vegas, NV",1790,NA
+74,"Lexington, KY",255,"Lexington-Fayette, KY MSA"
+64,"Lincoln, NE",385,"Lincoln, NE MSA"
+71,"Long Beach, CA",290,"Los Angeles-Long Beach-Anaheim, CA MSA"
+5,"Los Angeles, CA",1670,"Los Angeles-Long Beach-Anaheim, CA MSA"
+16,"Louisville, KY",1305,"Louisville/Jefferson County, KY-IN MSA"
+60,"Madison, WI",470,"Madison, WI MSA"
+94,"Malibu, CA",0,NA
+65,"Manhattan Beach, CA",380,NA
+26,"Mesa, AZ",935,"Phoenix-Mesa-Scottsdale, AZ MSA"
+34,"Miami-Dade County, FL",740,NA
+83,"Minneapolis, MN",135,"Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+94,"Missoula, MT",0,"Missoula, MT MSA"
+29,"Nashville, TN",865,"Nashville-Davidson--Murfreesboro--Franklin, TN MSA"
+28,"New Orleans, LA",880,"New Orleans-Metairie, LA MSA"
+6,"New York City, NY",1650,NA
+88,"Newport News, VA",70,"Virginia Beach-Norfolk-Newport News, VA-NC MSA"
+69,"Norfolk, VA",325,"Virginia Beach-Norfolk-Newport News, VA-NC MSA"
+49,"Oakland, CA",560,"San Francisco-Oakland-Hayward, CA MSA"
+39,"Oklahoma City, OK",705,"Oklahoma City, OK MSA"
+94,"Palo Alto, CA",0,NA
+45,"Pasadena, CA",640,NA
+8,"Philadelphia, PA",1535,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
+94,"Phoenix, AZ",0,"Phoenix-Mesa-Scottsdale, AZ MSA"
+19,"Pittsburgh, PA",1170,"Pittsburgh, PA MSA"
+94,"Poquoson, VA",0,NA
+94,"Portland, ME",0,"Portland-South Portland, ME MSA"
+38,"Portland, OR",710,"Portland-Vancouver-Hillsboro, OR-WA MSA"
+75,"Portsmouth, VA",250,NA
+94,"Princeton, NJ",0,NA
+17,"Providence, RI",1255,"Providence-Warwick, RI-MA MSA"
+35,"Raleigh, NC",730,"Raleigh, NC MSA"
+50,"Richmond, VA",555,"Richmond, VA MSA"
+94,"Rolling Hills Estates, CA",0,NA
+14,"Sacramento, CA",1365,"Sacramento--Roseville--Arden-Arcade, CA MSA"
+23,"Salt Lake City, UT",1065,"Salt Lake City, UT MSA"
+46,"San Antonio, TX",635,"San Antonio-New Braunfels, TX MSA"
+9,"San Diego, CA",1510,"San Diego-Carlsbad, CA MSA"
+4,"San Francisco, CA",1675,"San Francisco-Oakland-Hayward, CA MSA"
+27,"San Jose, CA",920,"San Jose-Sunnyvale-Santa Clara, CA MSA"
+94,"San Juan, PR",0,NA
+62,"Santa Clarita, CA",405,NA
+7,"Santa Monica, CA",1560,NA
+94,"Savannah, GA",0,"Savannah, GA MSA"
+12,"Seattle, WA",1410,"Seattle-Tacoma-Bellevue, WA MSA"
+94,"Smithfield, VA",0,NA
+94,"Spartanburg, SC",0,"Spartanburg, SC MSA"
+80,"St. Cloud, FL",180,NA
+36,"St. Louis, MO",725,"St. Louis, MO-IL MSA"
+94,"St. Paul, MN",0,"Minneapolis-St. Paul-Bloomington, MN-WI MSA"
+90,"Suffolk, VA",60,NA
+94,"Summit, NJ",0,NA
+94,"Tampa, FL",0,"Tampa-St. Petersburg-Clearwater, FL MSA"
+91,"Toledo, OH",50,"Toledo, OH MSA"
+43,"Tulsa, OK",675,"Tulsa, OK MSA"
+57,"Tuscaloosa, AL",500,"Tuscaloosa, AL MSA"
+94,"Vallejo, CA",0,"Vallejo-Fairfield, CA MSA"
+94,"Vernon, CA",0,NA
+30,"Virginia Beach, VA",815,"Virginia Beach-Norfolk-Newport News, VA-NC MSA"
+25,"Washington, DC",970,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA"
+63,"West Covina, CA",395,NA
+40,"West Hollywood, CA",700,NA
+94,"West Sacramento, CA",0,NA
+94,"Whittier, CA",0,NA
+85,"Williamsburg, VA",100,NA
