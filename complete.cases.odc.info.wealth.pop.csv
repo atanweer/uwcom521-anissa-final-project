@@ -1,0 +1,67 @@
+"","city_name","area_title","odc_score","info_lq","home_value","pop_est"
+"2","Anchorage, AK","Anchorage, AK MSA",1430,1.29,283000,399790
+"3","Ann Arbor, MI","Ann Arbor, MI MSA",770,1.13,234200,358880
+"4","Asheville, NC","Asheville, NC MSA",1120,0.51,195800,446840
+"5","Athens, GA","Athens-Clarke County, GA MSA",545,0.37,158600,201813
+"6","Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA MSA",1105,1.71,186300,5709731
+"7","Austin, TX","Austin-Round Rock, TX MSA",1700,1.42,241100,2000860
+"8","Baltimore, MD","Baltimore-Columbia-Towson, MD MSA",520,0.62,290300,2797407
+"9","Bangor, ME","Bangor, ME MSA",0,0.79,143100,152692
+"10","Baton Rouge, LA","Baton Rouge, LA MSA",1425,0.83,176400,830480
+"14","Boston, MA","Boston-Cambridge-Newton, MA-NH MSA",1370,1.54,393000,4774321
+"15","Boulder, CO","Boulder, CO MSA",520,2.32,416500,319372
+"16","Bridgeport, CT","Bridgeport-Stamford-Norwalk, CT MSA",0,1.51,420900,948053
+"19","Chattanooga, TN","Chattanooga, TN-GA MSA",1350,0.64,150300,546351
+"21","Cincinnati, OH","Cincinnati, OH-KY-IN MSA",600,0.65,159200,2159329
+"22","Cleveland, OH","Cleveland-Elyria, OH MSA",550,0.69,143100,2060810
+"24","Dallas, TX","Dallas-Fort Worth-Arlington, TX MSA",720,1.21,172500,7102165
+"25","Dayton, OH","Dayton, OH MSA",70,1.12,124500,800909
+"26","Denver, CO","Denver-Aurora-Lakewood, CO MSA",815,1.68,314400,2814330
+"27","Detroit, MI","Detroit-Warren-Dearborn, MI MSA",515,0.68,151000,4302043
+"28","Durham, NC","Durham-Chapel Hill, NC MSA",240,0.8,204700,552493
+"29","Gainesville, FL","Gainesville, FL MSA",200,0.58,164400,276881
+"30","Grand Rapids, MI","Grand Rapids-Wyoming, MI MSA",165,0.47,151300,1038583
+"31","Greenville, NC","Greenville, NC MSA",0,0.6,138200,175842
+"32","Hartford, CT","Hartford-West Hartford-East Hartford, CT MSA",1100,0.98,247000,1211324
+"34","Huntsville, AL","Huntsville, AL MSA",0,0.61,171800,444752
+"35","Jacksonville, FL","Jacksonville, FL MSA",195,0.73,172800,1449481
+"37","Lexington, KY","Lexington-Fayette, KY MSA",255,1.01,167800,500535
+"38","Lincoln, NE","Lincoln, NE MSA",385,0.75,163600,323557
+"39","Long Beach, CA","Los Angeles-Long Beach-Anaheim, CA MSA",290,2.01,540600,13340068
+"40","Los Angeles, CA","Los Angeles-Long Beach-Anaheim, CA MSA",1670,2.01,540600,13340068
+"42","Madison, WI","Madison, WI MSA",470,2.16,228500,641385
+"43","Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL MSA",595,0.96,241700,6012331
+"44","St. Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI MSA",0,1.02,231800,3524583
+"45","Minneapolis, MN","Minneapolis-St. Paul-Bloomington, MN-WI MSA",135,1.02,231800,3524583
+"46","Missoula, MT","Missoula, MT MSA",0,0.81,246400,114181
+"48","New Orleans, LA","New Orleans-Metairie, LA MSA",880,0.8,188300,1262888
+"49","Jersey City, NJ","New York-Newark-Jersey City, NY-NJ-PA MSA",435,1.51,414000,20182305
+"50","Oklahoma City, OK","Oklahoma City, OK MSA",705,0.69,146100,1358452
+"51","Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",1535,0.82,240900,6069875
+"52","Phoenix, AZ","Phoenix-Mesa-Scottsdale, AZ MSA",0,0.96,219100,4574531
+"53","Mesa, AZ","Phoenix-Mesa-Scottsdale, AZ MSA",935,0.96,219100,4574531
+"54","Pittsburgh, PA","Pittsburgh, PA MSA",1170,0.77,143200,2353045
+"55","Portland, ME","Portland-South Portland, ME MSA",0,0.7,245800,526295
+"56","Portland, OR","Portland-Vancouver-Hillsboro, OR-WA MSA",710,1.09,303100,2390244
+"57","Providence, RI","Providence-Warwick, RI-MA MSA",1255,0.83,254500,1613070
+"58","Raleigh, NC","Raleigh, NC MSA",730,1.75,225000,1273568
+"59","Richmond, VA","Richmond, VA MSA",555,0.59,219700,1271142
+"60","Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA MSA",1365,0.69,339900,2274194
+"61","Salt Lake City, UT","Salt Lake City, UT MSA",1065,1.3,251200,1170266
+"62","San Antonio, TX","San Antonio-New Braunfels, TX MSA",635,1.13,151400,2381828
+"63","San Diego, CA","San Diego-Carlsbad, CA MSA",1510,0.87,485900,3299521
+"64","San Francisco, CA","San Francisco-Oakland-Hayward, CA MSA",1675,1.9,718400,4656132
+"65","Oakland, CA","San Francisco-Oakland-Hayward, CA MSA",560,1.9,718400,4656132
+"67","Savannah, GA","Savannah, GA MSA",0,0.59,173600,379199
+"68","Seattle, WA","Seattle-Tacoma-Bellevue, WA MSA",1410,2.69,361500,3733580
+"71","Tampa, FL","Tampa-St. Petersburg-Clearwater, FL MSA",0,1.03,165600,2975225
+"72","Toledo, OH","Toledo, OH MSA",50,0.5,118700,605956
+"74","Tuscaloosa, AL","Tuscaloosa, AL MSA",500,0.43,156400,241851
+"75","Honolulu, HI","Urban Honolulu, HI MSA",35,0.79,629900,998714
+"76","Vallejo, CA","Vallejo-Fairfield, CA MSA",0,0.42,344900,436092
+"77","Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",815,0.74,236900,1723351
+"78","Newport News, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",70,0.74,236900,1723351
+"79","Norfolk, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",325,0.74,236900,1723351
+"80","Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",970,1.24,401500,6098283
+"81","Arlington, VA","Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",520,1.24,401500,6098283
+"82","Cedar Falls, IA","Waterloo-Cedar Falls, IA MSA",0,0.5,143400,170612

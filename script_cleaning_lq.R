@@ -43,6 +43,7 @@ info.lq
 
 hist(info.lq$info_lq)
 
+
 #GOODS PRODUCING SECTOR DATA MUNGING
 
 #Make a copy of the dataset that I won't touch:

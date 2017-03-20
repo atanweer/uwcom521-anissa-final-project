@@ -11,7 +11,8 @@ industry.df <-read.csv("clean.lq.csv")
 merge.1 <- merge(odc.df, wealth.df, by.x = "area_title", by.y = "area_title", all.x = TRUE, all.y = TRUE)
 merge.2 <- merge(merge.1, industry.df, by.x = "area_title", by.y = "area_title", all.x = TRUE, all.y = TRUE)
 
-#Create a main dataframe to work with from this merge and include just the variables I want in the order I want.
+#Create a main dataframe to work with from this merge and include just 
+#the variables I want in the order I want.
 
 d.all.cases <- data.frame(city_name = merge.2$odc_city_name, msa = merge.2$area_title, odc_score = merge.2$odc_score, 
                 odc_rank = merge.2$odc_rank, home_value = merge.2$est.med.home.val.dollars, 
@@ -39,20 +40,20 @@ nrow(d.complete.cases)
 #concentration ... information. Or may information, public administration, and higher ed. Since 
 #those are the sectors I'm actually interested in!
 
-plot(d.complete.cases$home_value, d.complete.cases$odc_score)
-#This doesn't look very linear at all
+#plot(d.complete.cases$home_value, d.complete.cases$odc_score)
+#This didn't look very linear at all, so commenting it out, logging home values
 
-plot(d.complete.cases$information, d.complete.cases$odc_score)
-#This also doesn't look very linear
 
-#I think Mako said I should log transform the scores. Trying both natural log and log base 10:
-
-plot(log(d.complete.cases$home_value), d.complete.cases$odc_score)
 plot(log(d.complete.cases$home_value), d.complete.cases$odc_score)
 
 lm.score.wealth <- lm(odc_score ~ log(home_value), data=d.complete.cases)
 summary(lm.score.wealth)
 confint(lm.score.wealth)
+
+
+plot(log(d.complete.cases$home_value), d.complete.cases$odc_score, xlab = "Median Home Value ($)", ylab = "ODC Score")
+abline(lm(d.complete.cases$odc_score ~ log(d.complete.cases$home_value)))
+
 
 #If my coefficient is 420, this is how you would interpret it:
 #log(1.1)*420
@@ -62,12 +63,15 @@ confint(lm.score.wealth)
 #http://stats.idre.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/
 
 
-plot(d.complete.cases$information, d.complete.cases$odc_score)
-plot(d.complete.cases$information, d.complete.cases$odc_score)
+plot(d.complete.cases$information, d.complete.cases$odc_score, xlab = "Information Sector Concentration (LQ)")
 
 lm.score.info <- lm(odc_score ~ information, data=d.complete.cases)
 summary(lm.score.info)
 confint(lm.score.info)
+
+plot(d.complete.cases$information, d.complete.cases$odc_score, 
+     xlab = "Information Sector Concentration (LQ)", ylab = "ODC Score")
+abline(lm(d.complete.cases$odc_score ~ d.complete.cases$information))
 
 #Now try a combined linear model:
 
@@ -93,6 +97,7 @@ plot(d.complete.cases$information, residuals(lm.wealth.info))
 library(stargazer)
 stargazer(lm.score.info, lm.score.wealth, lm.wealth.info, type="html")
 
-write(stargazer(lm.score.info, lm.score.wealth, lm.wealth.info, type="html"), file = "odc.score.models.html")
+write(stargazer(lm.score.info, lm.score.wealth, lm.wealth.info, type="html"), 
+      file = "odc.score.models.html")
 
-
+nrow(d.complete.cases)

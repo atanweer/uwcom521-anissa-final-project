@@ -44,9 +44,9 @@ head(home.val.msa)
 
 names(home.val.msa)[names(home.val.msa) == "GEO.display.label"] <- "area_title"
 colnames(home.val.msa)
-names(home.val.msa)[names(home.val.msa) == "HD01_VD01"] <- "est.med.home.val.dollars"
+names(home.val.msa)[names(home.val.msa) == "HD01_VD01"] <- "home_value"
 colnames(home.val.msa)
-names(home.val.msa)[names(home.val.msa) == "HD02_VD01"] <- "est.med.home.marg.error"
+names(home.val.msa)[names(home.val.msa) == "HD02_VD01"] <- "home_value_error"
 colnames(home.val.msa)
 
 colnames(home.val.msa)

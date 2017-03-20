@@ -1,4 +1,4 @@
-"GEO.id","GEO.id2","area_title","est.med.home.val.dollars","est.med.home.marg.error"
+"GEO.id","GEO.id2","area_title","home_value","home_value_error"
 "310M200US10180","10180","Abilene, TX MSA","107400","6132"
 "310M200US10420","10420","Akron, OH MSA","146300","3650"
 "310M200US10500","10500","Albany, GA MSA","110200","6673"

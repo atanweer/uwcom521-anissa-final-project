@@ -1,0 +1,454 @@
+"","city_name","area_title","odc_score","info_lq","home_value","pop_est"
+"1","Albuquerque, NM","Albuquerque, NM MSA",995,NA,181800,906209
+"2","Anchorage, AK","Anchorage, AK MSA",1430,1.29,283000,399790
+"3","Ann Arbor, MI","Ann Arbor, MI MSA",770,1.13,234200,358880
+"4","Asheville, NC","Asheville, NC MSA",1120,0.51,195800,446840
+"5","Athens, GA","Athens-Clarke County, GA MSA",545,0.37,158600,201813
+"6","Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA MSA",1105,1.71,186300,5709731
+"7","Austin, TX","Austin-Round Rock, TX MSA",1700,1.42,241100,2000860
+"8","Baltimore, MD","Baltimore-Columbia-Towson, MD MSA",520,0.62,290300,2797407
+"9","Bangor, ME","Bangor, ME MSA",0,0.79,143100,152692
+"10","Baton Rouge, LA","Baton Rouge, LA MSA",1425,0.83,176400,830480
+"11","Birmingham, AL","Birmingham-Hoover, AL MSA",495,NA,156900,1145647
+"12","Blacksburg, VA","Blacksburg-Christiansburg-Radford, VA MSA",265,NA,172300,179904
+"13","Boise, ID","Boise City, ID MSA",645,NA,193100,675800
+"14","Boston, MA","Boston-Cambridge-Newton, MA-NH MSA",1370,1.54,393000,4774321
+"15","Boulder, CO","Boulder, CO MSA",520,2.32,416500,319372
+"16","Bridgeport, CT","Bridgeport-Stamford-Norwalk, CT MSA",0,1.51,420900,948053
+"17","Burlington, VT","Burlington-South Burlington, VT MSA",80,NA,266800,216661
+"18","Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC MSA",790,NA,173900,2426363
+"19","Chattanooga, TN","Chattanooga, TN-GA MSA",1350,0.64,150300,546351
+"20","Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI MSA",1720,NA,224300,9550108
+"21","Cincinnati, OH","Cincinnati, OH-KY-IN MSA",600,0.65,159200,2159329
+"22","Cleveland, OH","Cleveland-Elyria, OH MSA",550,0.69,143100,2060810
+"23","Columbus, OH","Columbus, OH MSA",140,NA,166600,2021632
+"24","Dallas, TX","Dallas-Fort Worth-Arlington, TX MSA",720,1.21,172500,7102165
+"25","Dayton, OH","Dayton, OH MSA",70,1.12,124500,800909
+"26","Denver, CO","Denver-Aurora-Lakewood, CO MSA",815,1.68,314400,2814330
+"27","Detroit, MI","Detroit-Warren-Dearborn, MI MSA",515,0.68,151000,4302043
+"28","Durham, NC","Durham-Chapel Hill, NC MSA",240,0.8,204700,552493
+"29","Gainesville, FL","Gainesville, FL MSA",200,0.58,164400,276881
+"30","Grand Rapids, MI","Grand Rapids-Wyoming, MI MSA",165,0.47,151300,1038583
+"31","Greenville, NC","Greenville, NC MSA",0,0.6,138200,175842
+"32","Hartford, CT","Hartford-West Hartford-East Hartford, CT MSA",1100,0.98,247000,1211324
+"33","Houston, TX","Houston-The Woodlands-Sugar Land, TX MSA",235,NA,168300,6656946
+"34","Huntsville, AL","Huntsville, AL MSA",0,0.61,171800,444752
+"35","Jacksonville, FL","Jacksonville, FL MSA",195,0.73,172800,1449481
+"36","Kansas City, MO","Kansas City, MO-KS MSA",1190,NA,164700,2088269
+"37","Lexington, KY","Lexington-Fayette, KY MSA",255,1.01,167800,500535
+"38","Lincoln, NE","Lincoln, NE MSA",385,0.75,163600,323557
+"39","Long Beach, CA","Los Angeles-Long Beach-Anaheim, CA MSA",290,2.01,540600,13340068
+"40","Los Angeles, CA","Los Angeles-Long Beach-Anaheim, CA MSA",1670,2.01,540600,13340068
+"41","Louisville, KY","Louisville/Jefferson County, KY-IN MSA",1305,NA,154000,1279335
+"42","Madison, WI","Madison, WI MSA",470,2.16,228500,641385
+"43","Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL MSA",595,0.96,241700,6012331
+"44","St. Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI MSA",0,1.02,231800,3524583
+"45","Minneapolis, MN","Minneapolis-St. Paul-Bloomington, MN-WI MSA",135,1.02,231800,3524583
+"46","Missoula, MT","Missoula, MT MSA",0,0.81,246400,114181
+"47","Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN MSA",865,NA,192200,1830298
+"48","New Orleans, LA","New Orleans-Metairie, LA MSA",880,0.8,188300,1262888
+"49","Jersey City, NJ","New York-Newark-Jersey City, NY-NJ-PA MSA",435,1.51,414000,20182305
+"50","Oklahoma City, OK","Oklahoma City, OK MSA",705,0.69,146100,1358452
+"51","Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",1535,0.82,240900,6069875
+"52","Phoenix, AZ","Phoenix-Mesa-Scottsdale, AZ MSA",0,0.96,219100,4574531
+"53","Mesa, AZ","Phoenix-Mesa-Scottsdale, AZ MSA",935,0.96,219100,4574531
+"54","Pittsburgh, PA","Pittsburgh, PA MSA",1170,0.77,143200,2353045
+"55","Portland, ME","Portland-South Portland, ME MSA",0,0.7,245800,526295
+"56","Portland, OR","Portland-Vancouver-Hillsboro, OR-WA MSA",710,1.09,303100,2390244
+"57","Providence, RI","Providence-Warwick, RI-MA MSA",1255,0.83,254500,1613070
+"58","Raleigh, NC","Raleigh, NC MSA",730,1.75,225000,1273568
+"59","Richmond, VA","Richmond, VA MSA",555,0.59,219700,1271142
+"60","Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA MSA",1365,0.69,339900,2274194
+"61","Salt Lake City, UT","Salt Lake City, UT MSA",1065,1.3,251200,1170266
+"62","San Antonio, TX","San Antonio-New Braunfels, TX MSA",635,1.13,151400,2381828
+"63","San Diego, CA","San Diego-Carlsbad, CA MSA",1510,0.87,485900,3299521
+"64","San Francisco, CA","San Francisco-Oakland-Hayward, CA MSA",1675,1.9,718400,4656132
+"65","Oakland, CA","San Francisco-Oakland-Hayward, CA MSA",560,1.9,718400,4656132
+"66","San Jose, CA","San Jose-Sunnyvale-Santa Clara, CA MSA",920,NA,823700,1976836
+"67","Savannah, GA","Savannah, GA MSA",0,0.59,173600,379199
+"68","Seattle, WA","Seattle-Tacoma-Bellevue, WA MSA",1410,2.69,361500,3733580
+"69","Spartanburg, SC","Spartanburg, SC MSA",0,NA,124300,325079
+"70","St. Louis, MO","St. Louis, MO-IL MSA",725,NA,164200,2812313
+"71","Tampa, FL","Tampa-St. Petersburg-Clearwater, FL MSA",0,1.03,165600,2975225
+"72","Toledo, OH","Toledo, OH MSA",50,0.5,118700,605956
+"73","Tulsa, OK","Tulsa, OK MSA",675,NA,141800,980794
+"74","Tuscaloosa, AL","Tuscaloosa, AL MSA",500,0.43,156400,241851
+"75","Honolulu, HI","Urban Honolulu, HI MSA",35,0.79,629900,998714
+"76","Vallejo, CA","Vallejo-Fairfield, CA MSA",0,0.42,344900,436092
+"77","Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",815,0.74,236900,1723351
+"78","Newport News, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",70,0.74,236900,1723351
+"79","Norfolk, VA","Virginia Beach-Norfolk-Newport News, VA-NC MSA",325,0.74,236900,1723351
+"80","Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",970,1.24,401500,6098283
+"81","Arlington, VA","Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",520,1.24,401500,6098283
+"82","Cedar Falls, IA","Waterloo-Cedar Falls, IA MSA",0,0.5,143400,170612
+"83",NA,"Abilene, TX MSA",NA,0.9,107400,168922
+"84",NA,"Akron, OH MSA",NA,0.64,146300,704243
+"85",NA,"Albany-Schenectady-Troy, NY MSA",NA,0.96,201000,881830
+"86",NA,"Albany, GA MSA",NA,0.68,110200,156997
+"87",NA,"Albany, OR MSA",NA,0.41,176300,120547
+"88",NA,"Alexandria, LA MSA",NA,NA,134800,154484
+"89",NA,"Allentown-Bethlehem-Easton, PA-NJ MSA",NA,0.84,203500,832327
+"90",NA,"Altoona, PA MSA",NA,0.73,114800,125593
+"91",NA,"Amarillo, TX MSA",NA,NA,127800,263258
+"92",NA,"Ames, IA MSA",NA,0.65,177400,96021
+"93",NA,"Anniston-Oxford-Jacksonville, AL MSA",NA,0.61,111400,115620
+"94",NA,"Appleton, WI MSA",NA,0.64,159600,233007
+"95",NA,"Atlantic City-Hammonton, NJ MSA",NA,0.31,223400,274219
+"96",NA,"Auburn-Opelika, AL MSA",NA,0.44,169000,156993
+"97",NA,"Augusta-Richmond County, GA-SC MSA",NA,0.68,135100,590772
+"98",NA,"Bakersfield, CA MSA",NA,0.43,197100,882176
+"99",NA,"Barnstable Town, MA MSA",NA,0.76,375300,214333
+"100",NA,"Battle Creek, MI MSA",NA,0.4,101400,134314
+"101",NA,"Bay City, MI MSA",NA,0.7,94100,105659
+"102",NA,"Beaumont-Port Arthur, TX MSA",NA,NA,106000,408216
+"103",NA,"Beckley, WV MSA",NA,0.62,99600,122507
+"104",NA,"Bellingham, WA MSA",NA,0.75,293700,212284
+"105",NA,"Bend-Redmond, OR MSA",NA,1.16,312600,175268
+"106",NA,"Billings, MT MSA",NA,0.81,211500,169329
+"107",NA,"Binghamton, NY MSA",NA,0.87,113600,246020
+"108",NA,"Bismarck, ND MSA",NA,0.63,226300,129640
+"109",NA,"Bloomington, IL MSA",NA,0.42,163000,188725
+"110",NA,"Bloomington, IN MSA",NA,NA,154200,165577
+"111",NA,"Bloomsburg-Berwick, PA MSA",NA,NA,159400,85229
+"112",NA,"Bowling Green, KY MSA",NA,NA,127100,166890
+"113",NA,"Bremerton-Silverdale, WA MSA",NA,0.76,269200,260131
+"114",NA,"Brownsville-Harlingen, TX MSA",NA,0.44,82800,422156
+"115",NA,"Brunswick, GA MSA",NA,0.55,134200,117771
+"116",NA,"Buffalo-Cheektowaga-Niagara Falls, NY MSA",NA,0.67,135200,1135230
+"117",NA,"Burlington, NC MSA",NA,0.41,141100,158276
+"118",NA,"California-Lexington Park, MD MSA",NA,0.2,293700,111413
+"119",NA,"Canton-Massillon, OH MSA",NA,0.49,126400,402976
+"120",NA,"Cape Coral-Fort Myers, FL MSA",NA,0.65,184200,701982
+"121",NA,"Cape Girardeau, MO-IL MSA",NA,NA,146500,96542
+"122",NA,"Carbondale-Marion, IL MSA",NA,0.77,98800,126828
+"123",NA,"Carson City, NV MSA",NA,0.42,218100,54521
+"124",NA,"Casper, WY MSA",NA,0.52,206400,82178
+"125",NA,"Cedar Rapids, IA MSA",NA,1.61,149000,266040
+"126",NA,"Chambersburg-Waynesboro, PA MSA",NA,0.32,175200,153638
+"127",NA,"Champaign-Urbana, IL MSA",NA,NA,152600,239672
+"128",NA,"Charleston-North Charleston, SC MSA",NA,0.82,210400,744526
+"129",NA,"Charleston, WV MSA",NA,0.81,104100,219236
+"130",NA,"Charlottesville, VA MSA",NA,NA,271900,230602
+"131",NA,"Cheyenne, WY MSA",NA,1.29,204500,97121
+"132",NA,"Chico, CA MSA",NA,0.67,246700,225411
+"133",NA,"Clarksville, TN-KY MSA",NA,0.69,140600,279887
+"134",NA,"Cleveland, TN MSA",NA,0.33,149000,121678
+"135",NA,"Coeur d'Alene, ID MSA",NA,0.49,197700,150346
+"136",NA,"College Station-Bryan, TX MSA",NA,0.62,166300,250145
+"137",NA,"Colorado Springs, CO MSA",NA,1.26,234100,697856
+"138",NA,"Columbia, MO MSA",NA,0.72,181000,174974
+"139",NA,"Columbia, SC MSA",NA,NA,147500,810574
+"140",NA,"Columbus, GA-AL MSA",NA,0.6,138900,312936
+"141",NA,"Columbus, IN MSA",NA,0.43,136800,81162
+"142",NA,"Corpus Christi, TX MSA",NA,0.54,123900,450436
+"143",NA,"Corvallis, OR MSA",NA,0.82,275800,87572
+"144",NA,"Crestview-Fort Walton Beach-Destin, FL MSA",NA,0.45,203500,262172
+"145",NA,"Cumberland, MD-WV MSA",NA,1.24,119400,99979
+"146",NA,"Dalton, GA MSA",NA,NA,125600,143781
+"147",NA,"Danville, IL MSA",NA,0.41,73800,79282
+"148",NA,"Daphne-Fairhope-Foley, AL MSA",NA,0.25,177800,203709
+"149",NA,"Davenport-Moline-Rock Island, IA-IL MSA",NA,0.63,128900,384584
+"150",NA,"Decatur, AL MSA",NA,NA,125700,152680
+"151",NA,"Decatur, IL MSA",NA,0.6,98200,107303
+"152",NA,"Deltona-Daytona Beach-Ormond Beach, FL MSA",NA,0.68,151000,623279
+"153",NA,"Des Moines-West Des Moines, IA MSA",NA,0.97,164700,622899
+"154",NA,"Dothan, AL MSA",NA,NA,120500,148171
+"155",NA,"Dover, DE MSA",NA,0.3,215200,173533
+"156",NA,"Dubuque, IA MSA",NA,0.77,161700,97125
+"157",NA,"Duluth, MN-WI MSA",NA,0.56,147300,279601
+"158",NA,"East Stroudsburg, PA MSA",NA,0.25,166700,166397
+"159",NA,"Eau Claire, WI MSA",NA,0.59,151500,165636
+"160",NA,"El Centro, CA MSA",NA,0.25,169000,180191
+"161",NA,"El Paso, TX MSA",NA,NA,113900,838019
+"162",NA,"Elizabethtown-Fort Knox, KY MSA",NA,NA,141500,147877
+"163",NA,"Elkhart-Goshen, IN MSA",NA,0.2,134900,203474
+"164",NA,"Elmira, NY MSA",NA,0.55,98600,87071
+"165",NA,"Erie, PA MSA",NA,0.43,121800,278045
+"166",NA,"Eugene, OR MSA",NA,1.11,235800,362895
+"167",NA,"Evansville, IN-KY MSA",NA,0.54,130400,315693
+"168",NA,"Fairbanks, AK MSA",NA,0.66,229300,99631
+"169",NA,"Fargo, ND-MN MSA",NA,1.18,193600,233836
+"170",NA,"Farmington, NM MSA",NA,0.21,147800,118737
+"171",NA,"Fayetteville-Springdale-Rogers, AR-MO MSA",NA,0.45,159800,515403
+"172",NA,"Fayetteville, NC MSA",NA,0.56,127800,376509
+"173",NA,"Flagstaff, AZ MSA",NA,0.38,228600,139097
+"174",NA,"Flint, MI MSA",NA,1.46,99200,410849
+"175",NA,"Florence-Muscle Shoals, AL MSA",NA,0.39,114800,146950
+"176",NA,"Florence, SC MSA",NA,0.54,115300,206448
+"177",NA,"Fond du Lac, WI MSA",NA,1.07,146700,101973
+"178",NA,"Fort Collins, CO MSA",NA,0.94,298100,333577
+"179",NA,"Fort Smith, AR-OK MSA",NA,0.55,108400,280241
+"180",NA,"Fort Wayne, IN MSA",NA,NA,123700,429820
+"181",NA,"Fresno, CA MSA",NA,0.54,220100,974861
+"182",NA,"Gadsden, AL MSA",NA,0.45,99200,103057
+"183",NA,"Gainesville, GA MSA",NA,0.4,173600,193535
+"184",NA,"Gettysburg, PA MSA",NA,0.4,193800,102295
+"185",NA,"Glens Falls, NY MSA",NA,0.83,163200,126918
+"186",NA,"Goldsboro, NC MSA",NA,0.52,119600,124132
+"187",NA,"Grand Forks, ND-MN MSA",NA,0.57,177000,102449
+"188",NA,"Grand Island, NE MSA",NA,0.52,134200,84942
+"189",NA,"Grand Junction, CO MSA",NA,0.57,198800,148513
+"190",NA,"Grants Pass, OR MSA",NA,0.51,232700,84745
+"191",NA,"Great Falls, MT MSA",NA,0.81,168600,82278
+"192",NA,"Greeley, CO MSA",NA,0.33,242700,285174
+"193",NA,"Green Bay, WI MSA",NA,NA,158600,316519
+"194",NA,"Greensboro-High Point, NC MSA",NA,0.73,144900,752157
+"195",NA,"Greenville-Anderson-Mauldin, SC MSA",NA,0.95,146400,874869
+"196",NA,"Gulfport-Biloxi-Pascagoula, MS MSA",NA,0.53,134200,389255
+"197",NA,"Hagerstown-Martinsburg, MD-WV MSA",NA,1.11,186900,261486
+"198",NA,"Hammond, LA MSA",NA,0.46,136700,128755
+"199",NA,"Hanford-Corcoran, CA MSA",NA,0.25,183000,150965
+"200",NA,"Harrisburg-Carlisle, PA MSA",NA,0.63,172600,565006
+"201",NA,"Harrisonburg, VA MSA",NA,0.87,198700,131131
+"202",NA,"Hattiesburg, MS MSA",NA,NA,136800,148610
+"203",NA,"Hickory-Lenoir-Morganton, NC MSA",NA,0.3,122000,362510
+"204",NA,"Hilton Head Island-Bluffton-Beaufort, SC MSA",NA,0.3,253500,207413
+"205",NA,"Hinesville, GA MSA",NA,0.22,114100,78811
+"206",NA,"Homosassa Springs, FL MSA",NA,0.56,115900,141058
+"207",NA,"Hot Springs, AR MSA",NA,0.7,134500,97177
+"208",NA,"Houma-Thibodaux, LA MSA",NA,0.31,143800,212297
+"209",NA,"Huntington-Ashland, WV-KY-OH MSA",NA,0.51,115700,361580
+"210",NA,"Idaho Falls, ID MSA",NA,0.73,165200,139849
+"211",NA,"Indianapolis-Carmel-Anderson, IN MSA",NA,NA,148000,1988152
+"212",NA,"Iowa City, IA MSA",NA,1.29,186600,166498
+"213",NA,"Ithaca, NY MSA",NA,0.45,195100,104926
+"214",NA,"Jackson, MI MSA",NA,0.29,127800,159494
+"215",NA,"Jackson, MS MSA",NA,1.03,145300,578561
+"216",NA,"Jackson, TN MSA",NA,NA,129200,129682
+"217",NA,"Jacksonville, NC MSA",NA,0.38,147400,186311
+"218",NA,"Janesville-Beloit, WI MSA",NA,1.21,133300,161448
+"219",NA,"Jefferson City, MO MSA",NA,NA,151500,151357
+"220",NA,"Johnson City, TN MSA",NA,0.98,137800,200264
+"221",NA,"Johnstown, PA MSA",NA,0.67,89100,136411
+"222",NA,"Jonesboro, AR MSA",NA,0.47,122100,128394
+"223",NA,"Joplin, MO MSA",NA,0.47,123300,177211
+"224",NA,"Kahului-Wailuku-Lahaina, HI MSA",NA,0.38,569300,164726
+"225",NA,"Kalamazoo-Portage, MI MSA",NA,0.33,143400,335340
+"226",NA,"Kankakee, IL MSA",NA,0.52,136300,110879
+"227",NA,"Kennewick-Richland, WA MSA",NA,0.37,191700,279116
+"228",NA,"Killeen-Temple, TX MSA",NA,0.56,130000,430642
+"229",NA,"Kingsport-Bristol-Bristol, TN-VA MSA",NA,NA,122800,305929
+"230",NA,"Kingston, NY MSA",NA,0.73,216900,180143
+"231",NA,"Knoxville, TN MSA",NA,0.76,158300,861679
+"232",NA,"Kokomo, IN MSA",NA,0.28,100800,82556
+"233",NA,"La Crosse-Onalaska, WI-MN MSA",NA,0.76,159000,136985
+"234",NA,"Lafayette-West Lafayette, IN MSA",NA,NA,138300,214997
+"235",NA,"Lafayette, LA MSA",NA,0.63,147100,490488
+"236",NA,"Lake Charles, LA MSA",NA,NA,139700,205493
+"237",NA,"Lake Havasu City-Kingman, AZ MSA",NA,0.73,139400,204737
+"238",NA,"Lakeland-Winter Haven, FL MSA",NA,0.39,123100,650092
+"239",NA,"Lancaster, PA MSA",NA,0.66,197400,536624
+"240",NA,"Lansing-East Lansing, MI MSA",NA,0.68,138500,472276
+"241",NA,"Laredo, TX MSA",NA,0.32,117600,269721
+"242",NA,"Las Cruces, NM MSA",NA,0.6,146700,214295
+"243",NA,"Las Vegas-Henderson-Paradise, NV MSA",NA,0.59,217300,2114801
+"244",NA,"Lawrence, KS MSA",NA,0.76,179700,118053
+"245",NA,"Lawton, OK MSA",NA,NA,118200,130581
+"246",NA,"Lebanon, PA MSA",NA,0.79,162700,137067
+"247",NA,"Lewiston-Auburn, ME MSA",NA,0.55,147500,107233
+"248",NA,"Lewiston, ID-WA MSA",NA,0.75,178500,62153
+"249",NA,"Lima, OH MSA",NA,0.62,113500,104425
+"250",NA,"Little Rock-North Little Rock-Conway, AR MSA",NA,0.94,149900,730250
+"251",NA,"Logan, UT-ID MSA",NA,0.74,200600,133821
+"252",NA,"Longview, TX MSA",NA,0.67,123900,217781
+"253",NA,"Longview, WA MSA",NA,0.4,187900,103468
+"254",NA,"Lubbock, TX MSA",NA,NA,120700,312433
+"255",NA,"Lynchburg, VA MSA",NA,NA,162900,260504
+"256",NA,"Macon, GA MSA",NA,0.75,112500,231448
+"257",NA,"Madera, CA MSA",NA,0.41,232800,154998
+"258",NA,"Manchester-Nashua, NH MSA",NA,1.32,256200,406678
+"259",NA,"Manhattan, KS MSA",NA,0.75,189300,98545
+"260",NA,"Mankato-North Mankato, MN MSA",NA,1.41,172400,99134
+"261",NA,"Mansfield, OH MSA",NA,0.7,102600,121707
+"262",NA,"McAllen-Edinburg-Mission, TX MSA",NA,0.45,81700,842304
+"263",NA,"Medford, OR MSA",NA,0.8,243500,212567
+"264",NA,"Memphis, TN-MS-AR MSA",NA,0.48,139800,1343572
+"265",NA,"Merced, CA MSA",NA,0.22,210100,268455
+"266",NA,"Michigan City-La Porte, IN MSA",NA,0.28,126000,110884
+"267",NA,"Midland, MI MSA",NA,1.13,138500,83632
+"268",NA,"Midland, TX MSA",NA,NA,195800,165427
+"269",NA,"Milwaukee-Waukesha-West Allis, WI MSA",NA,0.87,198600,1575747
+"270",NA,"Mobile, AL MSA",NA,0.56,120500,415395
+"271",NA,"Modesto, CA MSA",NA,0.26,243500,538388
+"272",NA,"Monroe, LA MSA",NA,1.33,124100,179238
+"273",NA,"Monroe, MI MSA",NA,0.31,145800,149568
+"274",NA,"Montgomery, AL MSA",NA,NA,138000,375435
+"275",NA,"Morgantown, WV MSA",NA,0.63,163700,138176
+"276",NA,"Morristown, TN MSA",NA,0.41,134000,116642
+"277",NA,"Mount Vernon-Anacortes, WA MSA",NA,0.34,255900,121846
+"278",NA,"Muncie, IN MSA",NA,0.33,94100,116852
+"279",NA,"Muskegon, MI MSA",NA,0.6,105400,172790
+"280",NA,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",NA,0.8,177300,431964
+"281",NA,"Napa, CA MSA",NA,0.3,555900,142456
+"282",NA,"Naples-Immokalee-Marco Island, FL MSA",NA,0.54,315000,357305
+"283",NA,"New Bern, NC MSA",NA,NA,149500,125066
+"284",NA,"New Haven-Milford, CT MSA",NA,0.64,244400,859470
+"285",NA,"Niles-Benton Harbor, MI MSA",NA,0.37,141200,154636
+"286",NA,"North Port-Sarasota-Bradenton, FL MSA",NA,0.63,208100,768918
+"287",NA,"Norwich-New London, CT MSA",NA,0.42,240900,271863
+"288",NA,"Ocala, FL MSA",NA,0.41,120500,343254
+"289",NA,"Ocean City, NJ MSA",NA,0.28,311800,94727
+"290",NA,"Odessa, TX MSA",NA,0.28,126100,159436
+"291",NA,"Ogden-Clearfield, UT MSA",NA,NA,216200,644030
+"292",NA,"Olympia-Tumwater, WA MSA",NA,0.44,244800,269536
+"293",NA,"Omaha-Council Bluffs, NE-IA MSA",NA,1.25,155200,915557
+"294",NA,"Orlando-Kissimmee-Sanford, FL MSA",NA,1.04,176100,2387138
+"295",NA,"Oshkosh-Neenah, WI MSA",NA,0.85,144200,169546
+"296",NA,"Owensboro, KY MSA",NA,0.45,115000,117967
+"297",NA,"Oxnard-Thousand Oaks-Ventura, CA MSA",NA,0.81,528700,850536
+"298",NA,"Palm Bay-Melbourne-Titusville, FL MSA",NA,0.55,158800,568088
+"299",NA,"Panama City, FL MSA",NA,0.66,164900,197723
+"300",NA,"Parkersburg-Vienna, WV MSA",NA,NA,109000,92776
+"301",NA,"Pensacola-Ferry Pass-Brent, FL MSA",NA,0.7,142700,478043
+"302",NA,"Peoria, IL MSA",NA,NA,137100,376987
+"303",NA,"Pine Bluff, AR MSA",NA,NA,81900,94489
+"304",NA,"Pittsfield, MA MSA",NA,0.62,209400,127828
+"305",NA,"Pocatello, ID MSA",NA,0.6,151500,83744
+"306",NA,"Port St. Lucie, FL MSA",NA,0.46,165800,454846
+"307",NA,"Prescott, AZ MSA",NA,0.47,216300,222255
+"308",NA,"Provo-Orem, UT MSA",NA,NA,251600,585257
+"309",NA,"Pueblo, CO MSA",NA,0.57,148000,163591
+"310",NA,"Punta Gorda, FL MSA",NA,0.49,167300,173115
+"311",NA,"Racine, WI MSA",NA,0.33,162000,195080
+"312",NA,"Rapid City, SD MSA",NA,0.69,170300,145457
+"313",NA,"Reading, PA MSA",NA,0.33,171100,415271
+"314",NA,"Redding, CA MSA",NA,0.56,238900,179533
+"315",NA,"Reno, NV MSA",NA,0.5,268100,451138
+"316",NA,"Riverside-San Bernardino-Ontario, CA MSA",NA,0.43,299300,4489159
+"317",NA,"Roanoke, VA MSA",NA,NA,172600,311901
+"318",NA,"Rochester, MN MSA",NA,0.89,173700,213873
+"319",NA,"Rochester, NY MSA",NA,0.88,138900,1081954
+"320",NA,"Rockford, IL MSA",NA,0.51,122700,340663
+"321",NA,"Rocky Mount, NC MSA",NA,NA,104700,148069
+"322",NA,"Rome, GA MSA",NA,1.04,120600,96504
+"323",NA,"Saginaw, MI MSA",NA,0.74,93500,193307
+"324",NA,"Salem, OR MSA",NA,0.31,205000,410091
+"325",NA,"Salinas, CA MSA",NA,0.36,429100,433898
+"326",NA,"Salisbury, MD-DE MSA",NA,0.39,218200,395300
+"327",NA,"San Angelo, TX MSA",NA,0.8,124000,120106
+"328",NA,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",NA,0.63,508200,281401
+"329",NA,"Santa Cruz-Watsonville, CA MSA",NA,0.42,668300,274146
+"330",NA,"Santa Fe, NM MSA",NA,0.67,286200,148686
+"331",NA,"Santa Maria-Santa Barbara, CA MSA",NA,1.13,547600,444769
+"332",NA,"Santa Rosa, CA MSA",NA,0.7,512100,502146
+"333",NA,"Scranton--Wilkes-Barre--Hazleton, PA MSA",NA,0.7,132900,558166
+"334",NA,"Sebastian-Vero Beach, FL MSA",NA,0.59,174000,147919
+"335",NA,"Sebring, FL MSA",NA,0.31,92600,99491
+"336",NA,"Sheboygan, WI MSA",NA,0.21,145000,115569
+"337",NA,"Sherman-Denison, TX MSA",NA,0.49,112300,125467
+"338",NA,"Shreveport-Bossier City, LA MSA",NA,0.58,145300,443708
+"339",NA,"Sierra Vista-Douglas, AZ MSA",NA,0.67,146900,126427
+"340",NA,"Sioux City, IA-NE-SD MSA",NA,NA,121700,165491
+"341",NA,"Sioux Falls, SD MSA",NA,0.92,167900,252234
+"342",NA,"South Bend-Mishawaka, IN-MI MSA",NA,0.63,125900,320098
+"343",NA,"Spokane-Spokane Valley, WA MSA",NA,0.69,192400,546807
+"344",NA,"Springfield, IL MSA",NA,NA,134700,211598
+"345",NA,"Springfield, MA MSA",NA,0.59,217200,631982
+"346",NA,"Springfield, MO MSA",NA,1.07,137600,455074
+"347",NA,"Springfield, OH MSA",NA,0.16,102100,135959
+"348",NA,"St. Cloud, MN MSA",NA,0.8,168100,194418
+"349",NA,"St. George, UT MSA",NA,0.68,231400,155602
+"350",NA,"St. Joseph, MO-KS MSA",NA,NA,112900,127421
+"351",NA,"State College, PA MSA",NA,0.79,206600,160580
+"352",NA,"Staunton-Waynesboro, VA MSA",NA,0.65,186900,120221
+"353",NA,"Stockton-Lodi, CA MSA",NA,0.43,278400,726106
+"354",NA,"Sumter, SC MSA",NA,0.27,100900,107480
+"355",NA,"Syracuse, NY MSA",NA,0.72,131500,660458
+"356",NA,"Tallahassee, FL MSA",NA,NA,160100,378593
+"357",NA,"Terre Haute, IN MSA",NA,0.45,87500,172107
+"358",NA,"Texarkana, TX-AR MSA",NA,NA,97900,151316
+"359",NA,"The Villages, FL MSA",NA,0.13,243500,118891
+"360",NA,"Topeka, KS MSA",NA,NA,129200,233791
+"361",NA,"Trenton, NJ MSA",NA,1,283600,371398
+"362",NA,"Tucson, AZ MSA",NA,0.64,165900,1010025
+"363",NA,"Tyler, TX MSA",NA,1.13,145500,222936
+"364",NA,"Utica-Rome, NY MSA",NA,0.7,112200,295600
+"365",NA,"Valdosta, GA MSA",NA,NA,129800,142202
+"366",NA,"Victoria, TX MSA",NA,NA,131400,99040
+"367",NA,"Vineland-Bridgeton, NJ MSA",NA,0.4,157300,155854
+"368",NA,"Visalia-Porterville, CA MSA",NA,0.32,174300,459863
+"369",NA,"Waco, TX MSA",NA,0.49,119300,262425
+"370",NA,"Walla Walla, WA MSA",NA,0.62,193200,64056
+"371",NA,"Warner Robins, GA MSA",NA,0.22,132800,187953
+"372",NA,"Watertown-Fort Drum, NY MSA",NA,0.8,155600,117635
+"373",NA,"Wausau, WI MSA",NA,0.28,151500,135868
+"374",NA,"Weirton-Steubenville, WV-OH MSA",NA,0.48,88000,121403
+"375",NA,"Wenatchee, WA MSA",NA,0.53,248900,116178
+"376",NA,"Wheeling, WV-OH MSA",NA,0.59,103900,144198
+"377",NA,"Wichita Falls, TX MSA",NA,0.59,98300,150780
+"378",NA,"Wichita, KS MSA",NA,NA,127800,644502
+"379",NA,"Williamsport, PA MSA",NA,0.47,147500,116048
+"380",NA,"Wilmington, NC MSA",NA,1.31,219400,277969
+"381",NA,"Winchester, VA-WV MSA",NA,NA,223700,133621
+"382",NA,"Winston-Salem, NC MSA",NA,NA,145100,659330
+"383",NA,"Worcester, MA-CT MSA",NA,0.63,247600,935536
+"384",NA,"Yakima, WA MSA",NA,0.37,163200,248830
+"385",NA,"York-Hanover, PA MSA",NA,0.46,168800,442867
+"386",NA,"Youngstown-Warren-Boardman, OH-PA MSA",NA,0.44,103000,549885
+"387",NA,"Yuba City, CA MSA",NA,0.38,221700,170955
+"388",NA,"Yuma, AZ MSA",NA,0.39,119400,204275
+"389",NA,"Aguadilla-Isabela, PR MSA",NA,0.47,NA,NA
+"390",NA,"Anderson, IN MSA",NA,NA,NA,NA
+"391",NA,"Anderson, SC MSA",NA,NA,NA,NA
+"392",NA,"Arecibo, PR MSA",NA,NA,NA,NA
+"393",NA,"Bloomington-Normal, IL MSA",NA,NA,NA,NA
+"394",NA,"Bristol, VA MSA",NA,NA,NA,NA
+"395",NA,"Fajardo, PR MSA",NA,NA,NA,NA
+"396",NA,"Florence, AL MSA",NA,NA,NA,NA
+"397",NA,"Fort Walton Beach-Crestview-Destin, FL MSA",NA,NA,NA,NA
+"398",NA,"Guayama, PR MSA",NA,0.34,NA,NA
+"399",NA,"Holland-Grand Haven, MI MSA",NA,NA,NA,NA
+"400",NA,"Honolulu, HI MSA",NA,NA,NA,NA
+"401",NA,"Lafayette, IN MSA",NA,NA,NA,NA
+"402",NA,"Los Angeles-Long Beach-Santa Ana, CA MSA",NA,NA,NA,NA
+"403",NA,"Louisville-Jefferson County, KY-IN MSA",NA,0.72,NA,NA
+"404",NA,"Mayaguez, PR MSA",NA,NA,NA,NA
+"405",NA,"Pascagoula, MS MSA",NA,NA,NA,NA
+"406",NA,"Ponce, PR MSA",NA,0.54,NA,NA
+"407",NA,"Poughkeepsie-Newburgh-Middletown, NY MSA",NA,NA,NA,NA
+"408",NA,"San German, PR MSA",NA,NA,NA,NA
+"409",NA,"San Juan-Carolina-Caguas, PR MSA",NA,1.33,NA,NA
+"410",NA,"Santa Barbara-Santa Maria-Goleta, CA MSA",NA,NA,NA,NA
+"411",NA,"Sarasota-Bradenton-Venice, FL MSA",NA,NA,NA,NA
+"412",NA,"Vero Beach, FL MSA",NA,NA,NA,NA
+"413",NA,"Yauco, PR MSA",NA,NA,NA,NA
+"414","Key Biscayne, FL",NA,0,NA,NA,NA
+"415","Compton, CA",NA,0,NA,NA,NA
+"416","Burbank, CA",NA,100,NA,NA,NA
+"417","Santa Monica, CA",NA,1560,NA,NA,NA
+"418","Malibu, CA",NA,0,NA,NA,NA
+"419","Cary, NC",NA,45,NA,NA,NA
+"420","Denton, TX",NA,485,NA,NA,NA
+"421","Whittier, CA",NA,0,NA,NA,NA
+"422","Williamsburg, VA",NA,100,NA,NA,NA
+"423","Pasadena, CA",NA,640,NA,NA,NA
+"424","Manhattan Beach, CA",NA,380,NA,NA,NA
+"425","Culver City, CA",NA,700,NA,NA,NA
+"426","New York City, NY",NA,1650,NA,NA,NA
+"427","Palo Alto, CA",NA,0,NA,NA,NA
+"428","Deer Lodge, MT",NA,0,NA,NA,NA
+"429","Princeton, NJ",NA,0,NA,NA,NA
+"430","Calabasas, CA",NA,370,NA,NA,NA
+"431","Hampton, VA",NA,130,NA,NA,NA
+"432","Smithfield, VA",NA,0,NA,NA,NA
+"433","Rolling Hills Estates, CA",NA,0,NA,NA,NA
+"434","Bell, CA",NA,365,NA,NA,NA
+"435","Chesapeake, VA",NA,305,NA,NA,NA
+"436","El Segundo, CA",NA,370,NA,NA,NA
+"437","Miami-Dade County, FL",NA,740,NA,NA,NA
+"438","Summit, NJ",NA,0,NA,NA,NA
+"439","Poquoson, VA",NA,0,NA,NA,NA
+"440","Fredericksburg, VA",NA,0,NA,NA,NA
+"441","Vernon, CA",NA,0,NA,NA,NA
+"442","West Sacramento, CA",NA,0,NA,NA,NA
+"443","Suffolk, VA",NA,60,NA,NA,NA
+"444","St. Cloud, FL",NA,180,NA,NA,NA
+"445","West Hollywood, CA",NA,700,NA,NA,NA
+"446","San Juan, PR",NA,0,NA,NA,NA
+"447","Portsmouth, VA",NA,250,NA,NA,NA
+"448","Santa Clarita, CA",NA,405,NA,NA,NA
+"449","West Covina, CA",NA,395,NA,NA,NA
+"450","Evanston, IL",NA,0,NA,NA,NA
+"451","Falls Church, VA",NA,290,NA,NA,NA
+"452","Law Vegas, NV",NA,1790,NA,NA,NA
+"453","Glendale, CA",NA,680,NA,NA,NA
